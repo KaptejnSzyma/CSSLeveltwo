@@ -1,0 +1,36 @@
+h1{
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  margin: 50px 50px 50px 50px;
+}
+
+table{
+  margin: auto;
+  padding: 50px;
+}
+
+td{
+  width: 100px;
+  height: 400px;
+  border: 6px solid white;
+}
+
+#one{
+  background-color: #2D7DD2;
+}
+
+#two{
+  background-color: #1C3144;
+}
+
+#three{
+  background-color: #DB5461;
+}
+
+#four{
+  background-color: #1B98E0;
+}
+
+#five{
+  background-color: #E1BC29;
+}
